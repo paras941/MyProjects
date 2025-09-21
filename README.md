@@ -126,7 +126,7 @@ A simple stopwatch web app for timing tasks, with start, stop, lap, and reset fu
 ```
 /stopwatch
   ├─ stopwatch.html
-  ├─ stopwatch.css
+  ├─ watch.css
   └─ watch.js
   
   
